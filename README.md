@@ -13,23 +13,23 @@
 <p align="center">
   <a href="https://github.com/VinhTh-x6/TrafficAI">
     <img align="center"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=TrafficAI&theme=synthwave&border_radius=10&card_width=380&description_lines_count=2"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=TrafficAI&theme=synthwave&border_radius=10&card_width=380"
     />
   </a>
   <a href="https://github.com/VinhTh-x6/FasterR-CNN">
     <img align="center"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=FasterR-CNN&theme=tokyonight&border_radius=10&card_width=380&description_lines_count=2"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=FasterR-CNN&theme=tokyonight&border_radius=10&card_width=380"
     />
   </a>
   <br>
   <a href="https://github.com/VinhTh-x6/DeepLabV3">
     <img align="center"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=DeepLabV3&theme=gruvbox&border_radius=10&card_width=380&description_lines_count=2"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=DeepLabV3&theme=gruvbox&border_radius=10&card_width=380"
     />
   </a>
   <a href="https://github.com/VinhTh-x6/SimpleCNN">
     <img align="center"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=SimpleCNN&theme=dracula&border_radius=10&card_width=380&description_lines_count=2"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VinhTh-x6&repo=SimpleCNN&theme=dracula&border_radius=10&card_width=380"
     />
   </a>
 </p>
