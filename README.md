@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 
-<p align="center">
+<h4 align="center">
   I'm Vinh — passionate about AI and Computer Vision, always curious about how machines "see" and understand the world.
-</p>
+</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FAB387&center=true&vCenter=true&width=500&lines=Work+hard%2C+dream+big." alt="Typing SVG" />
